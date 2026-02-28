@@ -1,4 +1,4 @@
-# Mario Segrt
+# Hi, I'm Mario Segrt
 
 Cybersecurity analyst focused on security and detection engineering for cloud and identity.
 
